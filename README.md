@@ -1,10 +1,12 @@
-## Srikanth tumpudi
+## Srikanth tumpudi                         ![profile](https://user-images.githubusercontent.com/40908115/56074323-afc34680-5dcd-11e9-9b06-2619cbb4ebe2.jpg)
 
 Iam currently pursuing B.tech in Vishnu Institute of Technology.I have above average coding skills and aware of HTML,CSS,java script,Django ,ML,Flask
 
 ### Professional skills
 
 Iam currently pursuing B.tech in Vishnu Institute of Technology.I have above average coding skills and aware of HTML,CSS,java script,Django ,ML,Flask
+
+
 
 ```markdown
 Syntax highlighted code block
